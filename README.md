@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS JavaScript, Python
 - 💞️ I’m looking to collaborate on Map Maker Brawl Stars
 - 📫 How to reach me by using Discord with my name
-- 😄 Pronouns: her
+- 😄 Pronouns: they
 - ⚡ Fun fact: I am the best Map Maker in Brawl Stars
 
 <!---
